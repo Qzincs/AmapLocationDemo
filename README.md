@@ -1,0 +1,1 @@
+在Unity中集成高德定位，参考[在unity中使用gps定位功能](https://blog.qzink.me/archives/%e5%9c%a8unity%e4%b8%ad%e4%bd%bf%e7%94%a8gps%e5%ae%9a%e4%bd%8d%e5%8a%9f%e8%83%bd.html#toc-4)
